@@ -1,0 +1,10 @@
+{
+  "plugins": [ 
+    [
+      "./plugin", {
+      "bad": "good",
+      "one": "two"
+      }
+    ] 
+  ]
+}
